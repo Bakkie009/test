@@ -2,7 +2,6 @@ test 2
 ====
 
 test toegevoegd
-
-b
+    dit is een nieuwe lijn
 
 bla `code bla`blablabla
